@@ -1,9 +1,9 @@
 # react-native-demo
 a react-native demo to learn react-native
 ## main
-app entry see [APP.js](https://github.com/linjiajian999/react-native-demo/blob/master/App.js)  
+app entry [APP.js](https://github.com/linjiajian999/react-native-demo/blob/master/App.js)  
 
-see main code in [src/components](https://github.com/linjiajian999/react-native-demo/tree/master/src/components)
+main code [src/components](https://github.com/linjiajian999/react-native-demo/tree/master/src/components)
 
 ![image](https://github.com/linjiajian999/react-native-demo/blob/master/gif/reactnativedemo-001.gif?raw=true)  
 
