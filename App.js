@@ -57,6 +57,7 @@ const styles = StyleSheet.create({
     height: 22
   }
 })
+
 const ReactNativeApp = TabNavigator(
    // RouteConfigs
   {
@@ -106,10 +107,5 @@ const ReactNativeApp = TabNavigator(
   }
 )
 // console.log(AwesomeProject)
-AppRegistry.registerComponent('ReactNativeApp', () => ReactNativeApp)
-
-
-
-
-
-
+AppRegistry.registerComponent('RNDemo', () => ReactNativeApp)
+// export default ReactNativeApp
